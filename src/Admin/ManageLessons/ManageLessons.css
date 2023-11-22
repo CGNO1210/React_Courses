@@ -1,0 +1,9 @@
+.custom{
+    display: flex;
+    margin: 80px auto 10px auto;
+    width: 80%;
+    justify-content: space-between;
+}
+#selectCourse{
+    width: 200px;
+}
